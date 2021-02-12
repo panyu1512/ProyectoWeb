@@ -1,0 +1,26 @@
+
+.bg-dark{
+    background-color:#A4F1FF !important;
+}
+.navbar-brand{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 25px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase; 
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+    
+}
+#section1{
+    color:black;
+}
+#namePage{
+    color:white;
+}
+#section1:hover{
+    color:white;
+}

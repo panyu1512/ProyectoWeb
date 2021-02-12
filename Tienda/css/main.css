@@ -1,0 +1,16 @@
+.intro-2 {
+    background: url("https://i.pinimg.com/564x/8c/d5/f6/8cd5f650ce6959bec1c90ab4e9386eee.jpg")no-repeat center center;
+    
+}
+.view {
+    margin-top: 30px;
+}
+#titulo{
+    font-family: 'Amatic SC', cursive;
+    font-size: 45px;
+}
+html,
+body,
+.view {
+    height: 90%;
+}
